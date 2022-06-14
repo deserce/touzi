@@ -23,7 +23,6 @@
 
 ### 可转债概念表
 
-更新于20220612
 
 ![](https://cdn.jsdelivr.net/gh/deserce/picgo@master/img/202206121533089.png)
 
